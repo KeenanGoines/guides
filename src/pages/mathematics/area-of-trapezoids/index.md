@@ -3,13 +3,9 @@ title: Area of Trapezoids
 ---
 ## Area of Trapezoids
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/area-of-trapezoids/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
-
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
+The area of a trapizoid can be calculated by doing base one plus base two divided by 2 times height.
+A = ((b1 + b2) / 2) x h
+An example would be base one is 2, base two is 2, and the height is 2 which would give you a height of:
+((2 + 2) / 2) x 2 = 4
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+https://www.mathgoodies.com/lessons/vol1/area_trapezoid
